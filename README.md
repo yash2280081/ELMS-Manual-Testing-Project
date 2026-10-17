@@ -1,4 +1,4 @@
-# Employee Leave Management System (ELMS) – Manual Testing Project
+# Employee Leave Management System (ELMS) – Manual Testing Based Project
 
 ## Project Overview
 
